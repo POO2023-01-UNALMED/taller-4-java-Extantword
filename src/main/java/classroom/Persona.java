@@ -5,7 +5,7 @@ public class Persona {
     final long cedula;
     String nombre;
     static int totalPersonas;
-    static int nuevasCedulas;
+    static long nuevasCedulas;
     
     static {
         totalPersonas = 0;
