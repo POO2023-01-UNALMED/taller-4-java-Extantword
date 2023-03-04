@@ -9,6 +9,7 @@ public class Persona {
     
     static {
         totalPersonas = 0;
+        nuevasCedulas = 0;
     }
 
     public Persona(long cedula, String nombre) {
