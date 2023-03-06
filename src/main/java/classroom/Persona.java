@@ -25,7 +25,7 @@ public class Persona {
     }
 
     public Persona(String nombre) {
-        this(nombre, 1)
+        this(nombre, 1);
      
     }
     
